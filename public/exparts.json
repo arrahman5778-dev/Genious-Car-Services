@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Abdul kader",
+    "img" :"https://i.ibb.co/0s0PB45/expert-1.jpg"
+  
+ },
+  {
+    "id": 2,
+    "name": "Abu Raihan",
+    "img" :"https://i.ibb.co/Tbyhsv3/expert-2.jpg"
+  
+ },
+  {
+    "id": 3,
+    "name": "Sah Alam",
+    "img" :"https://i.ibb.co/yVq38zW/expert-3.jpg"
+  
+ },
+  {
+    "id": 4,
+    "name": "Amir Hamza",
+    "img" :"https://i.ibb.co/ckL620G/expert-4.jpg"
+  
+ },
+  {
+    "id": 5,
+    "name": "Mariya ",
+    "img" :"https://i.ibb.co/vQQJJQy/expert-6.png"
+  
+ },
+  {
+    "id": 6,
+    "name": "Fahim Khanduker",
+    "img" :"https://i.ibb.co/gM6SPZ2/expert-5.jpg"
+  
+ }
+]
